@@ -7,7 +7,7 @@
 // @run-at       document-start
 // @grant        none
 // @license      MIT
-// @updateURL    https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.meta.js
+// @updateURL    https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.user.js
 // @downloadURL  https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.user.js
 // ==/UserScript==
 
