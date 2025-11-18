@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Blocca AnimeClick video-intro
 // @name:en      Block AnimeClick video-intro
-// @namespace    Skip-Animeclick-Video-Intro
+// @namespace    skip-animeclick-video-intro
 // @version      1.03
 // @description  Salta automaticamente la pagina "video-intro" di AnimeClick.it portando direttamente alla homepage.
 // @description:en This script automatically skips the “video-intro” page on AnimeClick.it, an Italian Anime and Manga website, and redirects you directly to the homepage.
@@ -18,6 +18,7 @@
         location.replace('https://www.animeclick.it/');
     }
 })();
+
 
 
 
