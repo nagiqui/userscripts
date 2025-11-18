@@ -1,16 +1,16 @@
 // ==UserScript==
-// @name         Blocca AnimeClick video-intro
-// @name:en      Block AnimeClick video-intro
-// @namespace    skip-animeclick-video-intro
-// @version      1.04
-// @description  Salta automaticamente la pagina "video-intro" di AnimeClick.it portando direttamente alla homepage.
+// @name           Blocca AnimeClick video-intro
+// @name:en        Block AnimeClick video-intro
+// @namespace      skip-animeclick-video-intro
+// @version        1.04
+// @description    Salta automaticamente la pagina "video-intro" di AnimeClick.it portando direttamente alla homepage.
 // @description:en This script automatically skips the “video-intro” page on AnimeClick.it, an Italian Anime and Manga website, and redirects you directly to the homepage.
-// @match        https://www.animeclick.it/*
-// @run-at       document-start
-// @grant        none
-// @license      MIT
-// @downloadURL  https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.user.js
-// @updateURL    https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.user.js
+// @match          https://www.animeclick.it/*
+// @run-at         document-start
+// @grant          none
+// @license        MIT
+// @downloadURL    https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.user.js
+// @updateURL      https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.user.js
 // ==/UserScript==
 
 (function() {
@@ -19,6 +19,7 @@
         location.replace('https://www.animeclick.it/');
     }
 })();
+
 
 
 
