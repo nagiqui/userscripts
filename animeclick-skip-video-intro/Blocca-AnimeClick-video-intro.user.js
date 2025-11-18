@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Blocca AnimeClick video-intro
-// @namespace    skip-animeclick-video-intro
-// @version      1.01
-// @description  Salta automaticamente la pagina "video-intro" di AnimeClick.it e va direttamente alla homepage
+// @namespace    Skip-Animeclick-Video-Intro
+// @version      1.02
+// @description  Salta automaticamente la pagina "video-intro" di AnimeClick.it portando direttamente alla homepage.
 // @match        https://www.animeclick.it/*
 // @run-at       document-start
 // @grant        none
@@ -16,6 +16,7 @@
         location.replace('https://www.animeclick.it/');
     }
 })();
+
 
 
 
