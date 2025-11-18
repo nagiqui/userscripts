@@ -10,7 +10,7 @@
 // @grant        none
 // @license      MIT
 // @downloadURL  https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.user.js
-// @updateURL  https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.user.js
+// @updateURL    https://raw.githubusercontent.com/nagiqui/userscripts/main/animeclick-skip-video-intro/Blocca-AnimeClick-video-intro.user.js
 // ==/UserScript==
 
 (function() {
@@ -19,6 +19,7 @@
         location.replace('https://www.animeclick.it/');
     }
 })();
+
 
 
 
